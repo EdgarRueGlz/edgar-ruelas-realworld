@@ -5,6 +5,8 @@
 /dist
 .env
 /data
+/playwright-report
+/test-results
 
 # IDEs and editors
 /.idea
